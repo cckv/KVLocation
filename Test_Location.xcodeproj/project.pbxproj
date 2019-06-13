@@ -15,12 +15,6 @@
 		FEAC20B9229B75BA003AE2A5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FEAC20B8229B75BA003AE2A5 /* main.m */; };
 		FEAC20C1229B75C3003AE2A5 /* KVMapViewLocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FEAC20C0229B75C3003AE2A5 /* KVMapViewLocationManager.m */; };
 		FEAC20C8229B7613003AE2A5 /* KVLocationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FEAC20C6229B7613003AE2A5 /* KVLocationManager.m */; };
-		FEAC20D9229B779B003AE2A5 /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = FEAC20CF229B779A003AE2A5 /* AFURLResponseSerialization.m */; };
-		FEAC20DA229B779B003AE2A5 /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FEAC20D0229B779A003AE2A5 /* AFHTTPSessionManager.m */; };
-		FEAC20DB229B779B003AE2A5 /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FEAC20D2229B779A003AE2A5 /* AFURLSessionManager.m */; };
-		FEAC20DC229B779B003AE2A5 /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = FEAC20D3229B779A003AE2A5 /* AFURLRequestSerialization.m */; };
-		FEAC20DD229B779B003AE2A5 /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = FEAC20D5229B779A003AE2A5 /* AFNetworkReachabilityManager.m */; };
-		FEAC20DE229B779B003AE2A5 /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = FEAC20D6229B779A003AE2A5 /* AFSecurityPolicy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,20 +33,6 @@
 		FEAC20C3229B7613003AE2A5 /* KVLocationManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KVLocationManager.h; sourceTree = "<group>"; };
 		FEAC20C6229B7613003AE2A5 /* KVLocationManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KVLocationManager.m; sourceTree = "<group>"; };
 		FEAC20C9229B7676003AE2A5 /* Singleton.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Singleton.h; sourceTree = "<group>"; };
-		FEAC20CB229B779A003AE2A5 /* AFSecurityPolicy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFSecurityPolicy.h; sourceTree = "<group>"; };
-		FEAC20CC229B779A003AE2A5 /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
-		FEAC20CD229B779A003AE2A5 /* AFURLSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLSessionManager.h; sourceTree = "<group>"; };
-		FEAC20CE229B779A003AE2A5 /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLRequestSerialization.h; sourceTree = "<group>"; };
-		FEAC20CF229B779A003AE2A5 /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLResponseSerialization.m; sourceTree = "<group>"; };
-		FEAC20D0229B779A003AE2A5 /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPSessionManager.m; sourceTree = "<group>"; };
-		FEAC20D1229B779A003AE2A5 /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLResponseSerialization.h; sourceTree = "<group>"; };
-		FEAC20D2229B779A003AE2A5 /* AFURLSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLSessionManager.m; sourceTree = "<group>"; };
-		FEAC20D3229B779A003AE2A5 /* AFURLRequestSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLRequestSerialization.m; sourceTree = "<group>"; };
-		FEAC20D4229B779A003AE2A5 /* AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworking.h; sourceTree = "<group>"; };
-		FEAC20D5229B779A003AE2A5 /* AFNetworkReachabilityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFNetworkReachabilityManager.m; sourceTree = "<group>"; };
-		FEAC20D6229B779A003AE2A5 /* AFSecurityPolicy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFSecurityPolicy.m; sourceTree = "<group>"; };
-		FEAC20D7229B779A003AE2A5 /* AFCompatibilityMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFCompatibilityMacros.h; sourceTree = "<group>"; };
-		FEAC20D8229B779A003AE2A5 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPSessionManager.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,7 +49,6 @@
 		FEAC209D229B75B9003AE2A5 = {
 			isa = PBXGroup;
 			children = (
-				FEAC20CA229B779A003AE2A5 /* AFNetworking */,
 				FEAC20A8229B75B9003AE2A5 /* Test_Location */,
 				FEAC20A7229B75B9003AE2A5 /* Products */,
 			);
@@ -110,27 +89,6 @@
 				FEAC20C0229B75C3003AE2A5 /* KVMapViewLocationManager.m */,
 			);
 			path = Loction;
-			sourceTree = "<group>";
-		};
-		FEAC20CA229B779A003AE2A5 /* AFNetworking */ = {
-			isa = PBXGroup;
-			children = (
-				FEAC20CB229B779A003AE2A5 /* AFSecurityPolicy.h */,
-				FEAC20CC229B779A003AE2A5 /* AFNetworkReachabilityManager.h */,
-				FEAC20CD229B779A003AE2A5 /* AFURLSessionManager.h */,
-				FEAC20CE229B779A003AE2A5 /* AFURLRequestSerialization.h */,
-				FEAC20CF229B779A003AE2A5 /* AFURLResponseSerialization.m */,
-				FEAC20D0229B779A003AE2A5 /* AFHTTPSessionManager.m */,
-				FEAC20D1229B779A003AE2A5 /* AFURLResponseSerialization.h */,
-				FEAC20D2229B779A003AE2A5 /* AFURLSessionManager.m */,
-				FEAC20D3229B779A003AE2A5 /* AFURLRequestSerialization.m */,
-				FEAC20D4229B779A003AE2A5 /* AFNetworking.h */,
-				FEAC20D5229B779A003AE2A5 /* AFNetworkReachabilityManager.m */,
-				FEAC20D6229B779A003AE2A5 /* AFSecurityPolicy.m */,
-				FEAC20D7229B779A003AE2A5 /* AFCompatibilityMacros.h */,
-				FEAC20D8229B779A003AE2A5 /* AFHTTPSessionManager.h */,
-			);
-			path = AFNetworking;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -203,17 +161,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FEAC20DB229B779B003AE2A5 /* AFURLSessionManager.m in Sources */,
 				FEAC20C1229B75C3003AE2A5 /* KVMapViewLocationManager.m in Sources */,
 				FEAC20AE229B75B9003AE2A5 /* ViewController.m in Sources */,
 				FEAC20B9229B75BA003AE2A5 /* main.m in Sources */,
-				FEAC20DE229B779B003AE2A5 /* AFSecurityPolicy.m in Sources */,
 				FEAC20AB229B75B9003AE2A5 /* AppDelegate.m in Sources */,
-				FEAC20D9229B779B003AE2A5 /* AFURLResponseSerialization.m in Sources */,
-				FEAC20DC229B779B003AE2A5 /* AFURLRequestSerialization.m in Sources */,
 				FEAC20C8229B7613003AE2A5 /* KVLocationManager.m in Sources */,
-				FEAC20DD229B779B003AE2A5 /* AFNetworkReachabilityManager.m in Sources */,
-				FEAC20DA229B779B003AE2A5 /* AFHTTPSessionManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
